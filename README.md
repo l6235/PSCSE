@@ -1,6 +1,5 @@
 # PSCSE: Prompt-based Contrastive Learning with Sample Filtering
 
-*(Official Implementation)*
 
 ## 📌 Overview
 
@@ -104,19 +103,6 @@ The SentEval toolkit is included in this repository for convenience and reproduc
 * Training logs and intermediate checkpoints are intentionally **not included** in this repository.
 
 ---
-
-## 📎 Citation
-
-If you find this work useful, please consider citing our paper:
-
-```bibtex
-@article{PSCSE,
-  title     = {PSCSE: Prompt-based Contrastive Learning with Sample Filtering for Unsupervised Sentence Embedding},
-  author    = {Xie, ...},
-  journal   = {XXX},
-  year      = {20XX}
-}
-```
 
 ---
 
