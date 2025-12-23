@@ -1,0 +1,75 @@
+############################
+# Python cache & bytecode
+############################
+__pycache__/
+*.py[cod]
+
+############################
+# Virtual environments
+############################
+venv/
+env/
+.venv/
+.conda/
+
+############################
+# Training results & outputs
+############################
+result/
+results/
+outputs/
+checkpoints/
+runs/
+
+############################
+# HuggingFace Trainer artifacts
+############################
+trainer_state.json
+training_args.bin
+train_results.txt
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+############################
+# SentEval build artifacts
+############################
+SentEval/build/
+SentEval.egg-info/
+*.egg-info/
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# OS / system files
+############################
+.DS_Store
+Thumbs.db
+desktop.ini
+
+############################
+# IDE / editor settings
+############################
+.idea/
+.vscode/
+*.swp
+*.swo
+
+############################
+# Temporary files
+############################
+tmp/
+temp/
+*.tmp
+*.bak
+*~
+
+############################
+# Environment / secrets
+############################
+.env
+.env.*
